@@ -8,7 +8,7 @@ Tian Chen⋆, Shijie An⋆, Yuan Zhang, Chongyang Ma, Huayan Wang, Xiaoyan Guo, 
 
 ### Setup 
 
-1) Download the model weights [SANet-NYUv2.pth](https://pan.baidu.com/s/1bh0TyXuZoesiTxuxzMn5iA)(密码:x55o) and place the
+1) Download the model weights [SANet-NYUv2.pth](https://pan.baidu.com/s/1bh0TyXuZoesiTxuxzMn5iA)(password:x55o) and place the
 file in the pretrained folder.
 
 2) Set up dependencies: 
