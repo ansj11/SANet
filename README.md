@@ -38,9 +38,9 @@ file in the pretrained folder.
 
 (2) Our result compare on NYUv2 dataset
 
-![network architecture](./imgs/table)
+![network architecture](./imgs/table.png)
 
-![network architecture](./imgs/results)
+![network architecture](./imgs/results.png)
 
 ### Citation
 
