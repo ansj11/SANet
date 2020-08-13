@@ -30,6 +30,18 @@ file in the pretrained folder.
     python test.py --cuda
     ```
 
+### Results
+
+(1) Our network architecture
+
+![network architecture](./imgs/architecture.png)
+
+(2) Our result compare on NYUv2 dataset
+
+![network architecture](./imgs/table)
+
+![network architecture](./imgs/results)
+
 ### Citation
 
 Please cite our paper if you use this code or any of the models:
