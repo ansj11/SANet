@@ -8,8 +8,8 @@ Tian Chen⋆, Shijie An⋆, Yuan Zhang, Chongyang Ma, Huayan Wang, Xiaoyan Guo, 
 
 ### Setup 
 
-1) Download the model weights (training on NYUv2 dataset) [SANet-NYUv2.pth](https://pan.baidu.com/s/1bh0TyXuZoesiTxuxzMn5iA)(password:x55o) and place the
-file in the pretrained folder.
+1) Download the model weights (full model training on NYUv2 dataset) [SANet-NYUv2.pth](https://pan.baidu.com/s/1bh0TyXuZoesiTxuxzMn5iA)(password:x55o)
+and place the file in the pretrained folder.
 
 2) Set up dependencies: 
 
